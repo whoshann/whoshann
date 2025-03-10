@@ -103,4 +103,9 @@
   <br>
   <img src="https://profile-counter.glitch.me/whoshann/count.svg" />
 </p>
+
+<!-- Footer Banner (Alternative) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:00ff87,100:60efff&height=120&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=25&fontColor=000000&animation=twinkling" width="100%"/>
+</div>
 </div>
