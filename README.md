@@ -4,18 +4,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kirill" alt="Typing SVG" /></a>
-</div> 
-<!-- Title -->
-<h1 align="center">Welcome to My Profile ! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Always+learning+new+things" alt="Typing SVG" />
-  </a>
-</p>
+</div>
 
 <!-- About Me Section -->
 
@@ -104,8 +93,10 @@
   <img src="https://profile-counter.glitch.me/whoshann/count.svg" />
 </p>
 
-<!-- Footer Banner (Alternative) -->
 <div align="center">
-<img src="https://your-banner-image-url.png" alt="banner" width="100%"/>
+<br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
 </div>
