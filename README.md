@@ -29,7 +29,7 @@
 
 <!-- Social Media Section -->
 
-## 🌐 Connect with me
+<h2 align="center">🌐 Connect with me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/your-username" target="_blank">
