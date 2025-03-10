@@ -27,8 +27,10 @@
 - 💬 Ask me about **Frontend Developer**
 - 📫 How to reach me: **moch.shandywijayanto@gmail.com**
 
-<!-- Social Media Section -->
+<br>
+<br>
 
+<!-- Social Media Section -->
 <h2 align="center">🌐 Connect with me</h2>
 
 <div align="center">
