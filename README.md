@@ -56,6 +56,11 @@
   <!-- Tambahkan skill lainnya -->
 </p>
 
+## 📈 Contribution Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
@@ -70,6 +75,7 @@
 <div align="center">
   <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
+
 
 <!-- Profile Views -->
 <p align="center"> 
