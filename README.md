@@ -1,10 +1,10 @@
 <!-- Header Banner -->
 <div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
 <div align="center">
-  <img src="https://your-banner-image-url.png" alt="banner" width="100%"/>
-</div>
-
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kirill" alt="Typing SVG" /></a>
+</div> 
 <!-- Title -->
 <h1 align="center">Welcome to My Profile ! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -106,6 +106,6 @@
 
 <!-- Footer Banner (Alternative) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:00ff87,100:60efff&height=120&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=25&fontColor=000000&animation=twinkling" width="100%"/>
+<img src="https://your-banner-image-url.png" alt="banner" width="100%"/>
 </div>
 </div>
