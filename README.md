@@ -53,7 +53,7 @@
 
 <!-- Skills Section -->
 
-## 🛠️ Languages and Tools
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -62,7 +62,7 @@
   <!-- Tambahkan skill lainnya -->
 </p>
 
-## 📈 Contribution Stats
+<h2 align="center">📈 Contribution Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
@@ -70,7 +70,7 @@
 
 <!-- GitHub Stats -->
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -78,6 +78,8 @@
 </p>
 
 <!-- Activity Graph -->
+
+<h2 align="center">📊 Activity Graph</h2>
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
