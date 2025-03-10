@@ -34,7 +34,7 @@
 <h2 align="center">🌐 Connect with me</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="https://linkedin.com/in/whoshann" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   &nbsp;&nbsp;
@@ -72,7 +72,7 @@
 <h2 align="center">📈 Contribution Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshann&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 <br>
 <br>
@@ -82,8 +82,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whoshann&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoshann&theme=radical" alt="GitHub Streak"/>
 </p>
 <br>
 <br>
@@ -92,16 +92,16 @@
 
 <h2 align="center">📊 Activity Graph</h2>
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=whoshann&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/whoshann/whoshann/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <!-- Profile Views -->
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" />
+  <img src="https://profile-counter.glitch.me/whoshann/count.svg" />
 </p>
 </div>
