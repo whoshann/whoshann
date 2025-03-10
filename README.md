@@ -63,6 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -71,29 +72,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 <br>
 <br>
 
-<!-- Contribution Stats Section -->
-<h2 align="center">📈 Contribution Stats</h2>
+<!-- Profile Statistics Section -->
+<h2 align="center">📊 Profile Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshann&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-<br>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoshann&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoshann&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoshann&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoshann&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
+</div>
 <br>
 <br>
 
@@ -101,11 +97,6 @@
 <h2 align="center">📊 Activity Graph</h2>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoshann&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/whoshann/whoshann/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
 
 <!-- Profile Views -->
 <p align="center"> 
