@@ -51,6 +51,9 @@
   </a>
 </div>
 
+<br>
+<br>
+
 <!-- Skills Section -->
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -61,14 +64,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <!-- Tambahkan skill lainnya -->
 </p>
+<br>
+<br>
+
+<!-- Contribution Stats Section -->
 
 <h2 align="center">📈 Contribution Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+<br>
+<br>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Section -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -76,8 +85,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
 </p>
+<br>
+<br>
 
-<!-- Activity Graph -->
+<!-- Activity Graph Section -->
 
 <h2 align="center">📊 Activity Graph</h2>
 
