@@ -19,7 +19,7 @@
 
 <!-- About Me Section -->
 
-## 🧑‍💻 About Me
+## 🧑‍💻 A Little More Detail
 
 - 🔭 I am a student at **SMKN 4 Malang**
 - 🌱 I'm learning about **Next JS**
