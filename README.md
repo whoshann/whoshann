@@ -83,14 +83,14 @@
 <!-- Activity Graph Section -->
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYzNDU4NmI2OWQ5ZDNkNzY0ZGY5ZGJiYTZkNzM2MDQ5ZmQyYjE0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cUAGuLiEcTBwRfkAQq/giphy.gif" width="30"> Activity Graph</h2>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoshann&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoshann&custom_title=Shandy's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF1493&line=BF3989&point=FF1493&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Profile Views -->
 <p align="center"> 
-  Visitor count
+  <b style="color: #FF1493">Visitor count</b>
   <br>
   <br>
-  <img src="https://profile-counter.glitch.me/whoshann/count.svg" />
+  <img src="https://profile-counter.glitch.me/{whoshann}/count.svg" style="background-color: #0D1117; color: #FF1493"/>
 </p>
 
 <div align="center">
