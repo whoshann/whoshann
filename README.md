@@ -11,13 +11,13 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
-- 🔭 I'm currently working on **[Your Current Project]**
+- 🔭 I am a student at **SMKN 4 Malang**
 - 🌱 I'm currently learning **[Technologies you're learning]**
 - 👯 I'm looking to collaborate on **[Type of Projects]**
 - 💬 Ask me about **[Your Expertise]**
