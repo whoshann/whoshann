@@ -19,7 +19,7 @@
 
 <!-- About Me Section -->
 
-## 🧑‍💻 A Little More Detail
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxdWh6ZXg5Y2E4M2JiNmRiNGQ2NmU4MmRkNzg4YzBkYjM5NGJhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"> A Little More Detail
 
 - 🔭 I am a student at **SMKN 4 Malang**
 - 🌱 I'm learning about **Next JS**
@@ -31,7 +31,7 @@
 <br>
 
 <!-- Social Media Section -->
-<h2 align="center">🌐 Connect with me</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZiZjBmYjQyNGM2NmM5ZDY5ZjQ5YmYyZGY1ZjM2ZDk5ZmZiYjY4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QXPYYGe1S0QHJ0LQPd/giphy.gif" width="30"> Connect with me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/whoshann" target="_blank">
@@ -56,7 +56,8 @@
 
 <!-- Skills Section -->
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<!-- Skills Section -->
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM4YTE1OWU3ZGNiZmM5ZDI5NmIyYzYyYzM2ZjZkZGUyYjU5ZmM5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uhQuegHJqwvdZxzheY/giphy.gif" width="30"> Languages and Tools</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -77,7 +78,7 @@
 <br>
 
 <!-- Profile Statistics Section -->
-<h2 align="center">📊 Profile Statistics</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJjMzk5ZmQ5YmY3NzFhOTRhNGY1ZWZhYzc3NmZmMDIwNzU5NzM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Profile Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoshann&layout=compact&theme=radical&hide_border=true&langs_count=8" width="370" alt="Most Used Languages" />
@@ -93,17 +94,9 @@
 <br>
 
 <!-- Activity Graph Section -->
-<h2 align="center">📊 Activity Graph</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYzNDU4NmI2OWQ5ZDNkNzY0ZGY5ZGJiYTZkNzM2MDQ5ZmQyYjE0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cUAGuLiEcTBwRfkAQq/giphy.gif" width="30"> Activity Graph</h2>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoshann&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoshann/whoshann/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whoshann/whoshann/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whoshann/whoshann/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 <!-- Profile Views -->
 <p align="center"> 
