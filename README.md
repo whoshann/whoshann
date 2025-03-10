@@ -97,6 +97,12 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoshann&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoshann/whoshann/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whoshann/whoshann/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/whoshann/whoshann/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!-- Profile Views -->
 <p align="center"> 
   Visitor count<br>
