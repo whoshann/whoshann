@@ -18,21 +18,34 @@
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 - 🔭 I am a student at **SMKN 4 Malang**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **your.email@example.com**
+- 🌱 I'm learning about **Next JS**
+- 👯 I'm looking to collaborate on **Website and Application Development**
+- 💬 Ask me about **Frontend Developer**
+- 📫 How to reach me: **moch.shandywijayanto@gmail.com**
 
 <!-- Social Media Section -->
 ## 🌐 Connect with me
-<p align="left">
-  <a href="your-linkedin-url" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+<div align="center">
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="your-twitter-url" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</p>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/your-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:moch.shandywijayanto@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/your-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 <!-- Skills Section -->
 ## 🛠️ Languages and Tools
