@@ -21,17 +21,17 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxdWh6ZXg5Y2E4M2JiNmRiNGQ2NmU4MmRkNzg4YzBkYjM5NGJhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"> A Little More Detail
 
-- 🔭 I am a student at **SMKN 4 Malang**
-- 🌱 I'm learning about **Next JS**
-- 👯 I'm looking to collaborate on **Website and Application Development**
-- 💬 Ask me about **Frontend Developer**
-- 📫 How to reach me: **moch.shandywijayanto@gmail.com**
+- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> I am a student at **SMKN 4 Malang**
+- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="20"> I'm learning about **Next JS**
+- <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="20"> I'm looking to collaborate on **Website and Application Development**
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdlNWJ2Y2ltcGsxOWF6ZDR0NnBjNmRwdnE4NjJ6Mm9vMWVmYjV0eCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bx3Cvt88j7PtM4SOaS/giphy.gif" width="20"> Ask me about **Frontend Developer**
+- <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="20"> How to reach me: **moch.shandywijayanto@gmail.com**
 
 <br>
 <br>
 
 <!-- Social Media Section -->
-<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZiZjBmYjQyNGM2NmM5ZDY5ZjQ5YmYyZGY1ZjM2ZDk5ZmZiYjY4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QXPYYGe1S0QHJ0LQPd/giphy.gif" width="30"> Connect with me</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Connect with me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/whoshann" target="_blank">
@@ -55,9 +55,7 @@
 <br>
 
 <!-- Skills Section -->
-
-<!-- Skills Section -->
-<h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM4YTE1OWU3ZGNiZmM5ZDI5NmIyYzYyYzM2ZjZkZGUyYjU5ZmM5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uhQuegHJqwvdZxzheY/giphy.gif" width="30"> Languages and Tools</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Languages and Tools</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -100,7 +98,9 @@
 
 <!-- Profile Views -->
 <p align="center"> 
-  Visitor count<br>
+  Visitor count
+  <br>
+  <br>
   <img src="https://profile-counter.glitch.me/whoshann/count.svg" />
 </p>
 </div>
