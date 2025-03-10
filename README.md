@@ -80,16 +80,15 @@
 <h2 align="center">📊 Profile Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoshann&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoshann&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoshann&layout=compact&theme=radical&hide_border=true&langs_count=8" width="370" alt="Most Used Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoshann&show_icons=true&theme=radical&hide_border=true" width="450" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoshann&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
+
 <br>
 <br>
 
