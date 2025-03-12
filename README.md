@@ -81,9 +81,13 @@
 <br>
 
 <!-- Activity Graph Section -->
+<div align="center">
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYzNDU4NmI2OWQ5ZDNkNzY0ZGY5ZGJiYTZkNzM2MDQ5ZmQyYjE0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cUAGuLiEcTBwRfkAQq/giphy.gif" width="30"> Activity Graph</h2>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whoshann&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://skyline.github.com/whoshann/2024" target="_blank">
+    <img src="https://github.com/whoshann/whoshann/blob/main/skyline.png" alt="GitHub Skyline" width="100%"/>
+  </a>
+</div>
 
 <br>
 <br>
