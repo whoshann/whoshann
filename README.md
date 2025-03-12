@@ -87,15 +87,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whoshann&theme=radical&hide_border=true&bg_color=0D1117&color=FF1493&line=F70D7B&point=BF3989&area=true&area_color=FF1493" alt="GitHub Activity"/>
 </div>
 
-<br>
-<br>
-
-<div align="center">
-  <a href="https://skyline.github.com/whoshann/2024" target="_blank">
-    <img src="https://github.com/whoshann/whoshann/blob/main/metrics.svg" alt="Github Skyline" width="100%"/>
-  </a>
-</div>
-
 <!-- Profile Views -->
 <p align="center"> 
   Visitor count
