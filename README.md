@@ -84,7 +84,7 @@
 <div align="center">
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYzNDU4NmI2OWQ5ZDNkNzY0ZGY5ZGJiYTZkNzM2MDQ5ZmQyYjE0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/cUAGuLiEcTBwRfkAQq/giphy.gif" width="30"> Activity Graph</h2>
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whoshann&theme=radical&hide_border=true&bg_color=0D1117&color=FF1493&line=F70D7B&point=BF3989&area=true&area_color=FF1493" alt="GitHub Activity"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whoshann&bg_color=0D1117&color=61DAFB&line=00B2FF&point=61DAFB&area=true&area_color=61DAFB&hide_border=true" alt="GitHub Activity"/>
 </div>
 
 <!-- Profile Views -->
