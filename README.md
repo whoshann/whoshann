@@ -87,18 +87,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whoshann&bg_color=0D1117&color=61DAFB&line=00B2FF&point=61DAFB&area=true&area_color=61DAFB&hide_border=true" alt="GitHub Activity"/>
 </div>
 
-<br>
-<br>
-<!-- 3D Contribution Calendar -->
-<h2 align="center"><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="30"> 3D Contribution Calendar</h2>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-<br>
-<br>
-
 <!-- Profile Views -->
 <p align="center"> 
   Visitor count
