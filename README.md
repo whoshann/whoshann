@@ -68,7 +68,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJjMzk5ZmQ5YmY3NzFhOTRhNGY1ZWZhYzc3NmZmMDIwNzU5NzM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Profile Statistics</h2>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshann&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshann&theme=radical&hide_border=true&layout=compact&count_private=true&include_all_commits=true" alt="Most Used Languages"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoshann&show_icons=true&theme=radical&hide_border=true" width="450" alt="GitHub Stats" />
 </div>
