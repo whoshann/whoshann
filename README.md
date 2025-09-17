@@ -12,7 +12,7 @@
 
 - <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> I am a student at **SMKN 4 Malang**
 - <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="20"> I'm learning about **Next JS**
-- <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="20"> I'm looking to collaborate on **Website and Application Development**
+- <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="20"> I'm looking to collaborate on **Website and Mobile Development**
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdlNWJ2Y2ltcGsxOWF6ZDR0NnBjNmRwdnE4NjJ6Mm9vMWVmYjV0eCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bx3Cvt88j7PtM4SOaS/giphy.gif" width="20"> Ask me about **Frontend Developer**
 - <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="20"> How to reach me: **moch.shandywijayanto@gmail.com**
 
